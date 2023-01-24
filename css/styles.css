@@ -1,0 +1,36 @@
+body {
+    background-color: #FFF8EA;
+    
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: #9E7676;
+    height: 3px;
+    width: 10%;
+}
+
+h2 {
+    color:#9E7676
+}
+
+h1 {
+    color:#594545
+}
+
+a {
+    color:#9E7676
+}
+
+img {
+    border-radius: 5%;
+}
+
+ul {
+    color: #594545
+}
+
+p {
+    color: #594545
+}
